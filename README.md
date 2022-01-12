@@ -5,12 +5,12 @@ Here some json-files, you can play with VCV-Rack
 
 It's about modular-synthesis, sound-creation, music.
 
-Try my favorite and toggle the ANLG/DIGIT button on the VCO:
+# Try my favorite and toggle the ANLG/DIGIT button on the VCO:
 
 ![Save and play this heavy-tribal-sound.vcv file](https://github.com/skatingfred/VCV-Rack/blob/main/techno.7.midi.mapping.vcv)
 
 
-Don't forget to select the correct Audio driver and soundcard according to your computer. 
+# Don't forget to select the correct Audio driver and soundcard according to your computer. 
 
 Normally, options are detected but you have to select them manually.
 
@@ -24,7 +24,7 @@ Here a screenshot of my audio module and what you have to change in the AUDIO-MO
 
 
 
-If you want to explore from scratch, this is a basic set-up to connect ADSR. 
+# If you want to explore from scratch, this is a basic set-up to connect ADSR. 
 
 With this one, you can trig some percutive sounds
 
