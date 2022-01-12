@@ -16,9 +16,9 @@ Normally, options are detected but you have to select them manually.
 
 Here a screenshot of my audio module and what you have to change in the AUDIO-MODULE to get the sound out of your box.
 
-"ALSA" for linux O.S.
+"ALSA" for linux O.S. (click on ALSA and change)
 
-"Terratec." is my soundcard
+"Terratec." is my soundcard (click and change to your snd-card)
 
 ![vcv rack audio module](https://user-images.githubusercontent.com/97455599/149219784-60ad7217-359f-4d7f-8f89-6d54214d172b.jpg)
 
