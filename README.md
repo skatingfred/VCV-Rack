@@ -7,7 +7,7 @@ It's about modular-synthesis, sound-creation, music.
 
 Try my favorite and toggle the ANLG/DIGIT button on the VCO:
 
-https://github.com/skatingfred/VCV-Rack/blob/main/techno.7.midi.mapping.vcv
+![Download this kind of heavy-tribal-sound.vcv file](https://github.com/skatingfred/VCV-Rack/blob/main/techno.7.midi.mapping.vcv)
 
 
 Don't forget to select the correct Audio driver and soundcard according to your computer. 
@@ -28,7 +28,7 @@ If you want to explore from scratch, this is a basic set-up to connect ADSR.
 
 With this one, you can trig some percutive sounds
 
-https://github.com/skatingfred/VCV-Rack/blob/main/basic.adsr.setup.vcv
+![Download this VCV file for basic-ADSR-connection.vcv](https://github.com/skatingfred/VCV-Rack/blob/main/basic.adsr.setup.vcv)
 
 
 
